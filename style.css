@@ -211,7 +211,6 @@ body {
 
   .trainers {
       text-align: center;
-      overflow: auto;
   }
 
   .trainers {
@@ -219,6 +218,7 @@ body {
       margin:  0 auto 30px auto;
       background: #024e76;
       color: #fce138;
+      overflow: auto;
   }
 
   .trainers img {
